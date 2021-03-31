@@ -6,10 +6,6 @@ import (
 	"log"
 )
 
-func Hello(dude string) string{
-	return "Hello " + dude + "!"
-}
-
 type Streamer struct {
 	game string
 	ada string
