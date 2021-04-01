@@ -9,7 +9,9 @@ Go has a free library of testing features called "testing", and there are also m
 - The first step was to create my test file
 - The second test was to create my ElevatorMedia
 
-Here we have the test file. It contains:
+**Link to the Elixir TDD Repo: https://github.com/DaveVaval/TDD-With-Elixir**
+
+####Here we have the test file. It contains:
 - elevator_media package
 - testing library
 - regexp libraty
